@@ -1,0 +1,60 @@
+[33mcommit 3fd5e6eb2454ef2a60898f03472e084f93d72d40[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1901f69 dc177f0
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 20:17:10 2023 +0530
+
+    Merge branch 'main' of https://github.com/tarunk2001/devops
+
+[33mcommit 1901f69e1b1283dd85f364bd11bdbb691fdb7053[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 20:14:30 2023 +0530
+
+    hello world
+
+[33mcommit dc177f075b61ec8afaf85dbc81348125d20a741a[m
+Author: tarunk2001 <135300125+tarunk2001@users.noreply.github.com>
+Date:   Mon Jun 12 19:54:45 2023 +0530
+
+    Create example3-by developer2
+
+[33mcommit 8245898b4ffa9ea47d5675543ae22521d8e0d84e[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 11:39:33 2023 +0530
+
+    added file1,file2
+
+[33mcommit a7cf80beffff1734881d02351dc4b6c79f898ce7[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 11:37:29 2023 +0530
+
+    demo files
+
+[33mcommit 0f1a6f28a1c54396cdd841cf0a5f6d5ca2e56943[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 10:39:14 2023 +0530
+
+    modified
+
+[33mcommit b19828a1b298f6477b227a60a2514ccb5bbc5463[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 10:27:25 2023 +0530
+
+    added demo1
+
+[33mcommit 1908f666ad99552f7b3289121cd97b2e5aa08c6d[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Mon Jun 12 09:59:56 2023 +0530
+
+    added file2
+
+[33mcommit f693401397e0f6d177be4e05b2f68a6b68e343ae[m
+Author: tharunk2001 <tharunkumar1085@gmail.com>
+Date:   Thu Jun 8 09:10:47 2023 +0530
+
+    added file1
+
+[33mcommit 2bbb0c270c216fb39db2713a14ffacdb077c8849[m
+Author: tarunk2001 <135300125+tarunk2001@users.noreply.github.com>
+Date:   Thu Jun 8 08:38:49 2023 +0530
+
+    Initial commit
